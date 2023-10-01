@@ -1,0 +1,4308 @@
+fileFormatVersion: 2
+guid: 3ebd55a839848f440b84d98aed6705d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 647
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a32f38a973b0ce4eb984001bb043026
+      internalID: -637824066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 647
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ca4131a31816c4aa186bcc2166bebe
+      internalID: 381695545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 647
+        width: 37
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81fc47a8b6c71c4db8f6aa1360e2cdb
+      internalID: 2023020128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 647
+        width: 37
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598306aeb9945574f939e6a47fa23c5a
+      internalID: -1349475186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 647
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d1dffd2116044785800eadb88ec84
+      internalID: -621832309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 647
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d0edc782b64542b33350b7fa774e4
+      internalID: 1763639578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 647
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6137f5c208c12114790e5f1a9d8ecd56
+      internalID: 537671172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 647
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aef909db347a34dbaa3c4b6a4d5e69
+      internalID: -385674864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 647
+        width: 36
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9d8c2a4619f640af3ab0534d39c51
+      internalID: 1602276051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 648
+        width: 36
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3508c363e38b54d97ba6dcc5ad584a
+      internalID: -787033911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 644
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa334e580b3bb149a388fc1ab193dde
+      internalID: -1642496403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 604
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a703ed5e82f5a4da0553d13d36dd3b
+      internalID: -1585104221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 605
+        width: 36
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a321cb5695ebd9c4a999b365838080e3
+      internalID: -325361783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 603
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea3359536326644aad0e678a3f477e
+      internalID: -646587717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 603
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3a1f37438269f48a6f967d64d088be
+      internalID: -2088039306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 602
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75d3391e54857841a5b6f950be9966c
+      internalID: 839101461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 540
+        width: 53
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca2b47a035a63f428084da3d44348de
+      internalID: 1701282731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 54
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292429c85f43064daf7de2452d6111b
+      internalID: -1538159089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 540
+        width: 55
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec9c6ff064d557449127dc1c8caac0e
+      internalID: 1119302933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 530
+        width: 55
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0270284e936c54bae19a4b2ff864c6
+      internalID: -2137552348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 514
+        width: 52
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02112553fae7aa419ea9e6de059d6b9
+      internalID: -791992733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 506
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d88dd6746e70d34aae502ec73fc9adc
+      internalID: 2013513913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 518
+        width: 52
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25aa2dac949f7a4690bc1c59eda2e97
+      internalID: 1930666905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 542
+        width: 56
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852c48e8eeaa4f4aaa9a0eb656ead88
+      internalID: 83560984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 545
+        width: 61
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24777dc77180e164787117e6c6cafa23
+      internalID: 764718202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 546
+        width: 60
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350ed6243573a748bc3a7d11dd85c51
+      internalID: -246893519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 547
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48f544c138cb8449f964c1914b8ce0
+      internalID: 1274923434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 539
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4fde35f0be2f54aa88d23c632fc4fa
+      internalID: 78342043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844088ea63902fe4f9a7938add3da547
+      internalID: 914597272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 456
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a8b1f01cde86d4bae1093c64129578
+      internalID: -312426253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 456
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb32b9fcbf7da42abb3d6160855588
+      internalID: 362372683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 456
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed367ce058095e42b4e0fc5c29a663d
+      internalID: 171275182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 456
+        width: 47
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef853d495edc8341ab57a12c9a43c4f
+      internalID: -1601021575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 456
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a078a22c620449a4de2f2658d07e6
+      internalID: -225955228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 456
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05414e69ecdb22e4bb1e5423a9bdf916
+      internalID: 1444971459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 456
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c25c37bd0dcc244b4fe724f95c7d5a
+      internalID: -482818532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 456
+        width: 52
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051d41dcf854ad4089034376ce95514
+      internalID: 675696387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 454
+        width: 61
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a1680b84a30154286e437cc2e725ef
+      internalID: -197961583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 464
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3487b9bbd867f974a8e8ea255933d9d5
+      internalID: -2056117923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 464
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1c8ac5c46c7e499a950a0f5a0a916
+      internalID: -14228094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 427
+        width: 59
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4168d2e4df75f24bb4f00e7f407237c
+      internalID: -1118122401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 427
+        width: 61
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad0ee84e9b183e4790440badc9743cf
+      internalID: 112219763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 427
+        width: 62
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef38b0250a3194f8d01715299c839c
+      internalID: -1275553976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 427
+        width: 61
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d172f1a48f95974e933646242ae5b7a
+      internalID: 1057077902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 427
+        width: 59
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab06b0765eb6cf4b845d11de1611d40
+      internalID: 988697658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 426
+        width: 59
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa7cb0b4e3e8d43ae3124b9f2e9469
+      internalID: -21300856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 425
+        width: 57
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4edc21ac9cebb49a7d82e2a2a2febe
+      internalID: 1900383677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 424
+        width: 55
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7233648d5233b4b86ae5c07e94aeb8
+      internalID: 584153292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 423
+        width: 54
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c732519d7a79ee458144aac1b390b67
+      internalID: -2013185291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 423
+        width: 56
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10f64cccba79e4b9f2fa6178892f10
+      internalID: 988104366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 423
+        width: 56
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf804d82426756842a47620731f330a3
+      internalID: -806179727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 423
+        width: 59
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9e37b3973bea4197b8a17e8923caa
+      internalID: -1566273035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 386
+        width: 52
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e85d8043df2ee488cea1e20de80c8c
+      internalID: -1383546150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 383
+        width: 45
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b42901971c92d4689c6ecf444b22e8
+      internalID: 926819558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 381
+        width: 41
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4744a94636a24e89c9e80cbca19d8
+      internalID: 242275185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 382
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbf0d4dbb471bb4f952a894f35fd3b1
+      internalID: -2030847259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 36
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695f49660facc4408a22567e0f7e77c
+      internalID: -1643317396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 384
+        width: 44
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb385941c3750478744fef62608506
+      internalID: -1092812590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 386
+        width: 43
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1659b9242b72ee4eaf88af7b4a679e1
+      internalID: -1167432224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 387
+        width: 45
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea15a96f35bd7f7418977651e866656d
+      internalID: 2069599566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 384
+        width: 57
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb1a3b87db41964d9b89135d6770978
+      internalID: -464785061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 382
+        width: 55
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbd11f6d9fb82e498c1ecc9ff0dafe9
+      internalID: -1004613481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 382
+        width: 50
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9694a82fa0c851849bea192ff04f4cce
+      internalID: -1479444883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 379
+        width: 45
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1efc3649d169c42872a06efb673299
+      internalID: -893437996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 373
+        width: 43
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83fb09648829d94a8c57f65f1500b1a
+      internalID: 1972513730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 375
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f03b2dd6a1e6468134a100c43d26d
+      internalID: 2135877775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 376
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b41a7aaf6a733a4bae83c9f6bf0a4f8
+      internalID: -438819205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 375
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8025330d05f5946b01f15cbf0e2258
+      internalID: -1870096711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 375
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07829cd8b8310324e9d0d6f0e15be987
+      internalID: 1315759603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 374
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3ec8caa9027b4c96844829bf13b20
+      internalID: 194582661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 374
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140aa093588bf944a13121be14c999e
+      internalID: -1737308871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 345
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b63865dbe69f419df7351b0c652b2
+      internalID: -237375229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 345
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55544bda5b9df8429eef258c2f210a4
+      internalID: -1137501545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 345
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a47dd25aa12c47a72ed3fa9c1256d
+      internalID: -821300837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 345
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354c0e02e85a6f49818e58f9f67eb26
+      internalID: 1462639650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 344
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501c9907f964cb47b8cb6560a5875ed
+      internalID: -818866108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 343
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ca951bdba0444f9c1c795085b62d0
+      internalID: -2138167948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 342
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade0a6af60d6fa4e8dae53ca7a9406f
+      internalID: 1166327544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 342
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1004f997452123488906d3ced50ce9a
+      internalID: 651820197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 342
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353de8ccee713ef408d9b12c1d52cb23
+      internalID: 1389051024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 341
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09597efb8d4cb3842b686976df4a3324
+      internalID: 1204232047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 340
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdfa99b3384a0d4498e836e52b0f65d
+      internalID: -1365314528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 340
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e0575105a214144bfb870870dd09ec
+      internalID: -424696741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 343
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6d92f0fbbe381428e7a07dcd378b7f
+      internalID: -1347629042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 344
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb34519e96821654abc8234366a58251
+      internalID: 1391761209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 343
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192d84bef4e6b24fbb2e5c0ae36d91b
+      internalID: -1108681415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 343
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea11c9a599ea64581cbd6e5263d76f
+      internalID: -503748777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 343
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f43f898b1fdf64fb63d6a6753f3d38
+      internalID: 1865631636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 352
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95a23898174d3428a8a3cc083d832a
+      internalID: -316972796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 352
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d57cc8fbcee794db0bdd3b91c8ca08
+      internalID: 166624787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 350
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed82d978f9dabec4ba008f4f9ef649bf
+      internalID: -1030044737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 352
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1457f17a7505dc34388fef10ecd5a72b
+      internalID: -90589869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 352
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6cd5a5265f90246b661280ced62926
+      internalID: -1117680475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 352
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c155a9920b097c44e9dbdb8e9ae48c6e
+      internalID: -1178345821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 352
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540fb05418a8b945b5a7c094f02cbc3
+      internalID: 1094307137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 350
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32ae70bb2b5c541adf064c991459b2
+      internalID: -1536943237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 350
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a279c6e8abe0b245ae7cd867b311bad
+      internalID: -1098117002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 350
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b11b49914a1b4d8dc9536412719ae
+      internalID: 1534848364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 352
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cced1f0285730b44a25be60f1091e45
+      internalID: 1289912252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 352
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07540dae70ff948bd13b4cfd2c6eb3
+      internalID: 536678766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 352
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73defab9b1bea747958cf2b68da6701
+      internalID: 2072724739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 350
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa33ef7dd0bd094d85970ae98111b2a
+      internalID: 1077620463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 352
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd46b746474782e4786c85653ac6a78f
+      internalID: -919337163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 352
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0f2968847ca945a6f925071219ed4
+      internalID: 2092345607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 352
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967139bc8979d724a81e0ae9e9c621a9
+      internalID: -1773091687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 352
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7984e05d4bf647817c2f899a43244
+      internalID: 1927254935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 352
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb458d919c91414582bbee570a5a277
+      internalID: -272836182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 293
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4481b37edf42d4eb390438b20d5f92
+      internalID: -958497753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 292
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de58df0ade0db1b439dece94bbe78f29
+      internalID: 1993413088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 291
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03461bed340d3624b991467cf452ccac
+      internalID: 1537859667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 291
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200d354995263045ba36464199a800d
+      internalID: -1601296933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 291
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ef35cb6e43a4449fd0c481c7a8f3b
+      internalID: 20182688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 292
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667b2e772edb5e2479f360c4abcf184a
+      internalID: 719065461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 292
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407a7626e39c0f479d06322874532b2
+      internalID: 735547157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 292
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b904a3f7e464b94a8f3f609fc962964
+      internalID: 418892861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 291
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022ce3042948db2499fd25b3770cfe3b
+      internalID: 1514201088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 306
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c0b0d6fde576a479a6b30378fd759c
+      internalID: -1077711090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 305
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c373e8aa4f4049af6ca2b2145fced
+      internalID: 623227928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 304
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b641add8958f24ea019fb46f5b7fa9
+      internalID: 746592597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 303
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ad5539fe3c0b9488139bf1b47e07d0
+      internalID: -228604962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 303
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13613c04466a5d24e86576f880d810c6
+      internalID: 654648775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 303
+        width: 31
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00b5ad4d653d344a9363b7c36278029
+      internalID: -573800829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 303
+        width: 32
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1d882cd93b75942910fbd281a1ebbf
+      internalID: 261121255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 304
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d9f65cb40b3634f8d0816a632fe54b
+      internalID: -387933373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 305
+        width: 29
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9f80da523f334db6f0b894d24e22b
+      internalID: -2060511346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 252
+        width: 48
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13572e4bee7e747a649ed8956696f0
+      internalID: 1444361577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 252
+        width: 42
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e837609b8f4f4eb6de36e335918f6
+      internalID: -1823168987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 247
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ecddf70c8c45e4e9aeedf9c061144c
+      internalID: -1005121621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 246
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4efa80da57e05145b878b386b4d20e0
+      internalID: 411120780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 249
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97178d9660803f640a8b9f379873d9a7
+      internalID: 1622873138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 248
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297366e0172a2a242bee93b3f15f1124
+      internalID: 861681174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 250
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17478b9f20884314a91dc0357e465291
+      internalID: -911050638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 250
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c166e6b4f92d4d41a163196fd01401d
+      internalID: 2089631567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 250
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e29055ca370704cafb07cdc6f70eb4
+      internalID: 1811335470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 250
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49738fc1891af0c4393c9274b60b5a3a
+      internalID: -86840808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 249
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f5b5053de006c4ba879505db05f494
+      internalID: -1150607538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 249
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ccc4668b1f7344a88e15506c3569f
+      internalID: 183699004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 250
+        width: 46
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625533a91d3aa9468fe27883fb61833
+      internalID: -1237744459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 213
+        width: 47
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c5bfdc0cd55b46938e991efb3720f
+      internalID: -390191769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 212
+        width: 48
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c65e4914534124d9f6b47977ea962d
+      internalID: -874306082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 210
+        width: 48
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28776f520ce534ebe9d36f3ffddc0b
+      internalID: 307818325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 209
+        width: 48
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013dd35e87766b4ab27abbce9ba492a
+      internalID: 2142920829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 209
+        width: 48
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc2312a19be674194be4ed99b07f6d
+      internalID: 494084942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 209
+        width: 45
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57064f5f6db55d34cad322c4dd94bc96
+      internalID: 1996148278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 209
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacf87fa8f213124ca1c08bb56cff4be
+      internalID: 907163134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 209
+        width: 38
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a48ac2a94dc2f4b92a4373a8987bd7
+      internalID: 699996769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 41
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3669b144881aff4f93bc20fafb4d487
+      internalID: 423190234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 156
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a476607f5c71b246b26416a424904e9
+      internalID: -1633910552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 156
+        width: 41
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27864c9dbd79a7b48a919210fa963b73
+      internalID: 567551582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 156
+        width: 50
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14a8cd5cb8484c45a88ba555fc0362a
+      internalID: -852590001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 156
+        width: 58
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103bf701c86f044ca620d43eb05e458
+      internalID: 739741896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 155
+        width: 64
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2534a6ad94d014d812b4a76bdc1289
+      internalID: 1562179042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 154
+        width: 65
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8901e07a76e34fbf0e2eb2a7da506
+      internalID: -1419611409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 154
+        width: 71
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba0e21566ef204408254e439becd589
+      internalID: -1414406623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 154
+        width: 66
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7297b707f6a341b6cd3f016ccee39
+      internalID: -1267962372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 153
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b061fe5d10a8a1d488efa84c04a47636
+      internalID: -1344044442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 153
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c779c45994941214fac24601c8c73984
+      internalID: 1749077786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 153
+        width: 78
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bbf730d0738fd4c93ea7fe3d51455d
+      internalID: 2074735950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 153
+        width: 72
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af2c8dbf9bb64645a0383e9b49a9d56
+      internalID: 583515122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 152
+        width: 57
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e74ee526139934293e1507b8632fc0
+      internalID: -2100429444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 89
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5330e71228a2a54aa9ce9bb156162b4
+      internalID: 145669315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 89
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d495316d97d06849beffab2026dd5f9
+      internalID: 1605600301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 89
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab432af122895e245aacfaca7ca852dd
+      internalID: 1531189366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 88
+        width: 36
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe394bf9b3b54d4da1a558de7fef299
+      internalID: -2044994624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 88
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca066cef0f992b409c03214293a45ad
+      internalID: 337161323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 89
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b883a6dddc762745a3d8246d8aee25a
+      internalID: 1136728584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 88
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5151b5260cbe4da27540b0b441c74
+      internalID: -826242565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 88
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad38d3cade354a49848ad30c2ee0099
+      internalID: 646594917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 88
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12044f5896fc2541bf8bf7d757ea9f5
+      internalID: 1688834844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 89
+        width: 41
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e73a05b940118e418b03c837d487b66
+      internalID: -316006583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 82
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9e85fca8ddd04bb5b8e1c7b1ba2e3
+      internalID: 1955158010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 81
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b7e0d55c47a1f4cbe0f89acfba9a1c
+      internalID: -617118165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 79
+        width: 55
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d0b0dc1084e645b25c483a5efdd61
+      internalID: 344678370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 79
+        width: 61
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6561d7ea8ce04e4992c50e204281506
+      internalID: 437477243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 78
+        width: 62
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef916efdb7f063469128618d0a50fdb
+      internalID: -1452156654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 77
+        width: 58
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf1f7270ddb15c488ddee49c50a5e0f
+      internalID: -213666625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 44
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6809da201e0e36c42bbcda1b8571634e
+      internalID: -499631419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9120629e44004286b6d392e056ebb
+      internalID: -572162503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df18ceb4f6a3e3744b4845dac87a04ab
+      internalID: -2082521586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797583eac03ad924d8226e87a845d280
+      internalID: -929242636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 20
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1d24df49bc7134da715f4065e0fd5b
+      internalID: -352978899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adc996ef0853964faa4010926fa701d
+      internalID: 1511301054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 7
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f584858a55b6e9141acc6754f33612b9
+      internalID: -339304292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1426f41fbd0574f988e54bc8803066
+      internalID: -1531665708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 10
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1580c8f83505eb841a70cc91d848ec1f
+      internalID: 368172262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 10
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e185f525e4d13b14ca1ff14a8f98b8bc
+      internalID: 1017071948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 10
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb3c4652afd5a24fb96be3f8cd07d42
+      internalID: -1461602379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 10
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e24059cab18e84ba7d0bcfc25a69c2
+      internalID: 1163444809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 9
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68054ca3107f2419dd88e9d33c6113
+      internalID: -972261542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 9
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d190d554da94b946a3dc6c27b90d6bc
+      internalID: -1412955252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ground Enemies_0: -637824066
+      Ground Enemies_1: 381695545
+      Ground Enemies_10: -1642496403
+      Ground Enemies_100: 536678766
+      Ground Enemies_101: 2072724739
+      Ground Enemies_102: 1077620463
+      Ground Enemies_103: -919337163
+      Ground Enemies_104: 2092345607
+      Ground Enemies_105: -1773091687
+      Ground Enemies_106: 1927254935
+      Ground Enemies_107: -272836182
+      Ground Enemies_108: -958497753
+      Ground Enemies_109: 1993413088
+      Ground Enemies_11: -1485574154
+      Ground Enemies_110: 1537859667
+      Ground Enemies_111: -1601296933
+      Ground Enemies_112: 20182688
+      Ground Enemies_113: 719065461
+      Ground Enemies_114: 735547157
+      Ground Enemies_115: 418892861
+      Ground Enemies_116: 1514201088
+      Ground Enemies_117: -1077711090
+      Ground Enemies_118: 623227928
+      Ground Enemies_119: 746592597
+      Ground Enemies_12: -1585104221
+      Ground Enemies_120: -228604962
+      Ground Enemies_121: 654648775
+      Ground Enemies_122: -573800829
+      Ground Enemies_123: 261121255
+      Ground Enemies_124: -387933373
+      Ground Enemies_125: -2060511346
+      Ground Enemies_126: 1444361577
+      Ground Enemies_127: -1823168987
+      Ground Enemies_128: -1005121621
+      Ground Enemies_129: 411120780
+      Ground Enemies_13: -325361783
+      Ground Enemies_130: 1622873138
+      Ground Enemies_131: 861681174
+      Ground Enemies_132: -911050638
+      Ground Enemies_133: 2089631567
+      Ground Enemies_134: 1811335470
+      Ground Enemies_135: -86840808
+      Ground Enemies_136: -1150607538
+      Ground Enemies_137: 183699004
+      Ground Enemies_138: -1237744459
+      Ground Enemies_139: -390191769
+      Ground Enemies_14: -646587717
+      Ground Enemies_140: -874306082
+      Ground Enemies_141: 307818325
+      Ground Enemies_142: 2142920829
+      Ground Enemies_143: 494084942
+      Ground Enemies_144: 1996148278
+      Ground Enemies_145: 907163134
+      Ground Enemies_146: 699996769
+      Ground Enemies_147: 423190234
+      Ground Enemies_148: -1633910552
+      Ground Enemies_149: 567551582
+      Ground Enemies_15: -2088039306
+      Ground Enemies_150: -852590001
+      Ground Enemies_151: 739741896
+      Ground Enemies_152: 1562179042
+      Ground Enemies_153: -1419611409
+      Ground Enemies_154: -1414406623
+      Ground Enemies_155: -1267962372
+      Ground Enemies_156: -1344044442
+      Ground Enemies_157: 1749077786
+      Ground Enemies_158: 2074735950
+      Ground Enemies_159: 583515122
+      Ground Enemies_16: 839101461
+      Ground Enemies_160: -2100429444
+      Ground Enemies_161: 145669315
+      Ground Enemies_162: 1605600301
+      Ground Enemies_163: 1531189366
+      Ground Enemies_164: -2044994624
+      Ground Enemies_165: 337161323
+      Ground Enemies_166: 1136728584
+      Ground Enemies_167: -826242565
+      Ground Enemies_168: 646594917
+      Ground Enemies_169: 1688834844
+      Ground Enemies_17: 1701282731
+      Ground Enemies_170: -316006583
+      Ground Enemies_171: 1955158010
+      Ground Enemies_172: -617118165
+      Ground Enemies_173: 344678370
+      Ground Enemies_174: 437477243
+      Ground Enemies_175: -1452156654
+      Ground Enemies_176: -213666625
+      Ground Enemies_177: -499631419
+      Ground Enemies_178: -572162503
+      Ground Enemies_179: -2082521586
+      Ground Enemies_18: -1538159089
+      Ground Enemies_180: -929242636
+      Ground Enemies_181: -352978899
+      Ground Enemies_182: 1511301054
+      Ground Enemies_183: -339304292
+      Ground Enemies_184: -1531665708
+      Ground Enemies_185: 368172262
+      Ground Enemies_186: 1017071948
+      Ground Enemies_187: -1461602379
+      Ground Enemies_188: 1163444809
+      Ground Enemies_189: -972261542
+      Ground Enemies_19: 1119302933
+      Ground Enemies_190: -1412955252
+      Ground Enemies_2: 2023020128
+      Ground Enemies_20: -2137552348
+      Ground Enemies_21: -791992733
+      Ground Enemies_22: 2013513913
+      Ground Enemies_23: 1930666905
+      Ground Enemies_24: 83560984
+      Ground Enemies_25: 764718202
+      Ground Enemies_26: -246893519
+      Ground Enemies_27: 1274923434
+      Ground Enemies_28: 78342043
+      Ground Enemies_29: 914597272
+      Ground Enemies_3: -1349475186
+      Ground Enemies_30: -312426253
+      Ground Enemies_31: 362372683
+      Ground Enemies_32: 171275182
+      Ground Enemies_33: -1601021575
+      Ground Enemies_34: -225955228
+      Ground Enemies_35: 1444971459
+      Ground Enemies_36: -482818532
+      Ground Enemies_37: 675696387
+      Ground Enemies_38: -197961583
+      Ground Enemies_39: -2056117923
+      Ground Enemies_4: -621832309
+      Ground Enemies_40: -14228094
+      Ground Enemies_41: -1118122401
+      Ground Enemies_42: 112219763
+      Ground Enemies_43: -1275553976
+      Ground Enemies_44: 1057077902
+      Ground Enemies_45: 988697658
+      Ground Enemies_46: -21300856
+      Ground Enemies_47: 1900383677
+      Ground Enemies_48: 584153292
+      Ground Enemies_49: -2013185291
+      Ground Enemies_5: 1763639578
+      Ground Enemies_50: 988104366
+      Ground Enemies_51: -806179727
+      Ground Enemies_52: -1566273035
+      Ground Enemies_53: -1383546150
+      Ground Enemies_54: 926819558
+      Ground Enemies_55: 242275185
+      Ground Enemies_56: -2030847259
+      Ground Enemies_57: -1643317396
+      Ground Enemies_58: -1092812590
+      Ground Enemies_59: -1167432224
+      Ground Enemies_6: 537671172
+      Ground Enemies_60: 2069599566
+      Ground Enemies_61: -464785061
+      Ground Enemies_62: -1004613481
+      Ground Enemies_63: -1479444883
+      Ground Enemies_64: -893437996
+      Ground Enemies_65: 1972513730
+      Ground Enemies_66: 2135877775
+      Ground Enemies_67: -438819205
+      Ground Enemies_68: -1870096711
+      Ground Enemies_69: 1315759603
+      Ground Enemies_7: -385674864
+      Ground Enemies_70: 194582661
+      Ground Enemies_71: -1737308871
+      Ground Enemies_72: -237375229
+      Ground Enemies_73: -1137501545
+      Ground Enemies_74: -821300837
+      Ground Enemies_75: 1462639650
+      Ground Enemies_76: -818866108
+      Ground Enemies_77: -2138167948
+      Ground Enemies_78: 1166327544
+      Ground Enemies_79: 651820197
+      Ground Enemies_8: 1602276051
+      Ground Enemies_80: 1389051024
+      Ground Enemies_81: 1204232047
+      Ground Enemies_82: -1365314528
+      Ground Enemies_83: -424696741
+      Ground Enemies_84: -1347629042
+      Ground Enemies_85: 1391761209
+      Ground Enemies_86: -1108681415
+      Ground Enemies_87: -503748777
+      Ground Enemies_88: 1865631636
+      Ground Enemies_89: -316972796
+      Ground Enemies_9: -787033911
+      Ground Enemies_90: 166624787
+      Ground Enemies_91: -1030044737
+      Ground Enemies_92: -90589869
+      Ground Enemies_93: -1117680475
+      Ground Enemies_94: -1178345821
+      Ground Enemies_95: 1094307137
+      Ground Enemies_96: -1536943237
+      Ground Enemies_97: -1098117002
+      Ground Enemies_98: 1534848364
+      Ground Enemies_99: 1289912252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

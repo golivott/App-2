@@ -1,0 +1,4444 @@
+fileFormatVersion: 2
+guid: 50895894d101d0d429c4a2ab4ae8e7a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kremlings_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 677
+        width: 43
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75108ce984863c641be5d4579638cfb8
+      internalID: 1804883095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 679
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc7aea61387d744aa1dcb1ee6804e9
+      internalID: 387011731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 682
+        width: 49
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e14b89eec069149a3ef6b0f97d0001
+      internalID: 964823807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 682
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e506026d2145249b8e40b89584ed3f
+      internalID: -1641590679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 682
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe234e87eed4f4e89e2f810236334d
+      internalID: 39194623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 682
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a52d9a8ed2ef0842a31fab3fe028255
+      internalID: 584480593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 682
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e73968f5c40b846acaf10a4045f98e
+      internalID: 875705357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 681
+        width: 43
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26765228919c00246a24b1dc1f15162b
+      internalID: 357237596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 679
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7139b8a3136f3d47b5298df10d5ea49
+      internalID: -2058235634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 680
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2351aede4106447a0f76b8d7fbbfb5
+      internalID: 1107186591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 676
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ddc0909bb86546941131a208680c3
+      internalID: 824824322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 676
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ca9a1f59c919c428b7aec3a688177d
+      internalID: -1777794537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 676
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97767863a44bb3b4faba410f64b7ebc0
+      internalID: -1750714662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 676
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080911a32600d6747a3b4199e80dce2d
+      internalID: -363755209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 676
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28385d47dcc2b1f4b9b910ac33f4c68d
+      internalID: -498004605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 619
+        width: 50
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291f7be79d00a34293d0ae497d6cafc
+      internalID: -1466696825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 618
+        width: 53
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d489a31ac6a8604498b37b47e9d0a533
+      internalID: -1914852554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 618
+        width: 49
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517113d0e00569a4ab5c5c7433641937
+      internalID: -1823422042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 619
+        width: 46
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ccd5b80c416e244a70289caf7e7d81
+      internalID: -861350497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 618
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a738797483c448861f23082dc97ad
+      internalID: 643022883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 619
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08d7aeaead77a34ab9018342579501b
+      internalID: 402780194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 618
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf00c2e4e8d6094780ed2562ef2df63
+      internalID: 1252212644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 616
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c414d93b2104f674db386b29d845192b
+      internalID: -1727063998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 618
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0bd4cdc4820014dbf4a24a38173c75
+      internalID: 760316221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 619
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7778d2a5a9b91846bd2690a553cbe2d
+      internalID: 516787016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 642
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c008551ececd43b81f3ba8aa9a656
+      internalID: -1950630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_26
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 602
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f95033ede12c2c48a1b3017dc6c9c9b
+      internalID: 1826866036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 602
+        width: 46
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d86fa6bdd13da4ba075fb77ef781c0
+      internalID: 557054223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_28
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 634
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c958a1c14d074b950bc658fd1fde1
+      internalID: -829875697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 625
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ffc1e2878a1a42bca229fd3adf22a
+      internalID: -284453317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 608
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706780867a0c44249b0c88900dfd3761
+      internalID: -796173279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_31
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 606
+        width: 13
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aed19d9311167469531a55c1baaacb
+      internalID: -847882114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 596
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092e4778072e31489e68f7eeaab8389
+      internalID: -1604353854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 546
+        width: 47
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165d600d37e93848a0e478681ca51ce
+      internalID: 1660889010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 546
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afde0e87515a94dbe05f3dca8c63ef
+      internalID: -2029227969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 542
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560718653fba2424f949d954810ad526
+      internalID: -1371812183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 543
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f198ec35022b4287e6cffea311b8c
+      internalID: -2051232244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_37
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 540
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea7789172d71d489547b84e7ee0d8b
+      internalID: -209017732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 553
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4379fe2ecccb7e74096a769e239b9456
+      internalID: 778672586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 553
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83694eb920b1be04d98af11189d7c51c
+      internalID: -591238309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 549
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f399dcf80170a74db66392b6d6c6bfe
+      internalID: 272944004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_41
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 587
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c559d47131c05749b7b564f9074b0d3
+      internalID: 117090187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_42
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16697c4d86cdbc240b6906744d17ecf5
+      internalID: 809682409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_43
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248984f427142384e8eecf0a2fda6d4b
+      internalID: -2100793540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_44
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a794ccd00d024fc4398641679cdc767f
+      internalID: 579437724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_45
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be2b9e27bd1084d92bd835410a7ed5
+      internalID: 1764905241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_46
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 587
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac03d9bc5c23d4a985f0fd2128518c
+      internalID: 1271803888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_47
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 587
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3c47c8a26527d4e843997738474e58
+      internalID: 944636591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_48
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172506e9e187504e959802f8023f807
+      internalID: -1720492015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_49
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2787918f546cf43b6bb159a645e18d
+      internalID: -502384857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_50
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 587
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402d0eba55b1f74ebd8d856c030e950
+      internalID: -1981953507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_51
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c3faeea30007943a7466a3e9f15866
+      internalID: 74970657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_52
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 587
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68132bcab286f974e883cf369e141b2a
+      internalID: -768109686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_53
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e68272b772954d9f8e8fe700f5fee
+      internalID: -1185950410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_54
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 587
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6befba127e1602479c057a624418e5c
+      internalID: -563428519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_55
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 587
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828eba595360c14468832b4eaf9d2d7c
+      internalID: 317032425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_56
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde336d7a50e1a44b17df29c48ecc37
+      internalID: -2023578938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_57
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 587
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81b02e8a965c6428b9d61b08514af4
+      internalID: 1759500153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_58
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 587
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7eb534f97f724c97a48d3d1d220ff
+      internalID: 2120595777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_59
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 585
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e35910376140e4191510be3410f70b
+      internalID: 1097917870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_60
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 585
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e73a6ff709e142990fd9768c5d301
+      internalID: -808292365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_61
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 585
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c0c004f1df9b54bb51e0883d40246f
+      internalID: -694668758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_62
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b170ef05cdc8ef5438483c84b449580a
+      internalID: 1224403871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_63
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 587
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211f2ee8cd9e89439340f68e9dba80a
+      internalID: 698386759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_64
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 587
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89bff87d8e537d47b9bc5c53a132150
+      internalID: -1073612607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_65
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 585
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8639ea9275f3849809cccedb8c6bd1
+      internalID: 1705559290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_66
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 587
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c4df8ec556244ab02236a6596c4f8
+      internalID: -1478050914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_67
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 587
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a8565ec8b40b45ba5b28bdca9fac9
+      internalID: -470500413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_68
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 587
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844d7e44db48c04e9f1be8fc8c9ef93
+      internalID: -1570194458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_69
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 587
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4aa8f59fa676044bd5cec6e270629a
+      internalID: 1975139147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_70
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 587
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf21d61f09dd0f4a9c2a8fe49b91bcd
+      internalID: 1288874149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 503
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f59c5493100e42bdfa13e2dcba462
+      internalID: -1030024471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 503
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b4069c0d944a46bcfc37a32e0a187
+      internalID: -763039223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 492
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39473f996f929c0499b824bad0f1f1a1
+      internalID: -1720183799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 500
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c295a07f669c4083526e865b7158f
+      internalID: -1084297960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 495
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d5ef44f9827d41bcf58efb7a345d5
+      internalID: -2045063302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_76
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 527
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac108a514b1a1c340b40597a812d8d50
+      internalID: -2010670738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_77
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 525
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942167f22e05c964aba8806eaa3e9941
+      internalID: 1988936119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_78
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 502
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e79bc58a32552459eda241c94576bc
+      internalID: 740312610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_79
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 501
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc26cc323617f4747872f79d78c05f05
+      internalID: -1328192733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_80
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 502
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed950cd57ae324d9962ab55119bf0e
+      internalID: -1262808252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_81
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 498
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a8eece14fc884a94b35008e49b4c7
+      internalID: -1204335924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_82
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 497
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30b91160087d1a438c4398939dd1bfb
+      internalID: 132190359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d234c942005d4497c8917afbd8e93
+      internalID: 1502078600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_84
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 514
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675f50ff0d7846d44aed61d8da917ae0
+      internalID: -1117862425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_85
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 517
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa5bce5d5410114dbec165291115ce2
+      internalID: 1904923206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_86
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 491
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0f920145376c4fb6ba7d7ec5545ff
+      internalID: -499701117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_87
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 517
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8fd4a547b0004d933197d9127db95
+      internalID: 1420876709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_88
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 499
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd29b8eb7ff374544b10a3f252053f92
+      internalID: 191823557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_89
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 503
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd3f38f5b942b247be4c2d993fa0c41
+      internalID: 1040302372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_90
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 504
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10727b0cdb996d44f990f917cfea5cf7
+      internalID: 862569055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_91
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 496
+        width: 32
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed07b864cb322044844e62a9ba2860a
+      internalID: 1899087026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_92
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 508
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e63b03dde31ac45818f6980129fcc3
+      internalID: 883886777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_93
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 495
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f930b5e00c42c841a91b72294d8d960
+      internalID: 333261560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_94
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 509
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091045954b198a742bb67dc3330ca687
+      internalID: 1585879005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_95
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 493
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b5c6eb8e66594aafcecd1500e9f40
+      internalID: 198731736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_96
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 493
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98954e106a364a48affd624938fb567
+      internalID: 2043098598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 490
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566a594c8e76ea14e9fb25bdbd69120c
+      internalID: 564337908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_98
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 489
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102ae0a491d7b746b1486ced7209845
+      internalID: 222759256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 497
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4fb4a530f9634d963cbe8c48056c1
+      internalID: 637199320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_100
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 497
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1b735f0c02a44e93f25fda45c4805
+      internalID: 569231360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_101
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 499
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533e1728136e1645b7ca79436dfdc1b
+      internalID: 1631592857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_102
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 502
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5bdea389162741980cd4be53883bb
+      internalID: -1917733042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_103
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 500
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0bb2d24b66704eb0a2ec2bad5db9e
+      internalID: 1658824166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_104
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 491
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3174a9273db99e142a583458e16b79d2
+      internalID: -40498336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 491
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c854e5d26311b4e8c574041bcae173
+      internalID: 1616760237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_106
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 492
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef28c659e84e444b105e1a73cd48af
+      internalID: -1287864986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_107
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 470
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe51c62ea9d8440be8457014e007b0
+      internalID: 717632019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_108
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 411
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61585694aa7a1024b8c003774469a85b
+      internalID: 782007335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_109
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 411
+        width: 50
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9194b0250acea46ac61ea452885e68
+      internalID: 2629845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_110
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 411
+        width: 50
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ca4061bc1ca345901b41156e57eaf
+      internalID: -607286521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_111
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 410
+        width: 40
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3122aa3f10f611745b528dfbd4f36c98
+      internalID: -1636426750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_112
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 410
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3366e59e383bc884fbdacfe39d8a70f8
+      internalID: 1256616358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_113
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 411
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d396396f0e75c48b4c41163a4c5772
+      internalID: 1816590533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_114
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 472
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a84094f3c761794793c132ffd8e1ac0
+      internalID: -1106432555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_115
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 410
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f20ea0f3b9bdd478bd88d528c37daf
+      internalID: -1085905105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_116
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 411
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc679931d5ea3e4fa6bc7b9c9f77123
+      internalID: 358462210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 411
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d698c45d4cb247a69d1e77193c143
+      internalID: 721127659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 340
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e072c7eedc6504449a4a62ca5858b29
+      internalID: 500277902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_119
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 337
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5b6119b466e724fbc60fdbc5da1093
+      internalID: -737145691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_120
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 337
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0d75c66cd4c5c49975ded9725ea5ad
+      internalID: -1555502743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_121
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 328
+        width: 44
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd393bd41afe117448ca25862a5e8709
+      internalID: -122740946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_122
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 326
+        width: 50
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136b914c4ce88b4cb59e6580d9b452e
+      internalID: -1137730372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_123
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 344
+        width: 53
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0182073e52749459ae3308c3a314a9
+      internalID: 11200707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_124
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 344
+        width: 65
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf740f1f4d28cbe49b70b0b1e3ab1422
+      internalID: 1668530912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_125
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 347
+        width: 58
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac97063228eea4d88f108df267bc1b
+      internalID: -992220475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_126
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 254
+        width: 47
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90adfed072db5d47939088de3ab48ad
+      internalID: -1570534793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_127
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 255
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353d08d8807f5846883e37390bb576c
+      internalID: 544780332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_128
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 255
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d419bcb5f2ae83d4a9f0c26d953f3282
+      internalID: 1666706269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 255
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19970631cce0b1d45b7a5dac859d5fed
+      internalID: -374881136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_130
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 255
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944ad31a83d13547aea21b2edb3dc32
+      internalID: 881331310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_131
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 255
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e3a1cc13c9b444805276b8169741a
+      internalID: 1218217869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_132
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 255
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75ccdda3174e84a8d6cc897a91004d
+      internalID: -899859641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_133
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 258
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a60d460aeab74e848189d5707bd53
+      internalID: -280747802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_134
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 264
+        width: 65
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9a2f592a1a3446bfc69e4d327e55e
+      internalID: 1000369113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_135
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 265
+        width: 74
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1a9b2351edb24489de9f1a548aba2
+      internalID: 1946662367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_136
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 262
+        width: 78
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca4b1e551797543b7d7200c25f25f3
+      internalID: -1758990006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_137
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 259
+        width: 76
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a699e2b3ea5e36429d7ffcffe1ffaee
+      internalID: 696264711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_138
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 182
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacdeff254929d746a14bb07b3da8a40
+      internalID: 1632920015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1ebb95e789b448a7ead8887152ae1
+      internalID: -354209498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_140
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 182
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586f6fafb57391b49b635704122b2c49
+      internalID: -1775944882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_141
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8728c0d3357ad334aac9429cc1fa4ccf
+      internalID: 1075732797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_142
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 42
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d72b8f2f4057b4e81f392189f97bf8
+      internalID: -1774309856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_143
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 181
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58231685bc49bd8488484c534a127f80
+      internalID: -1504234074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_144
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 180
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587defbf35fc39e48b42801249d9f461
+      internalID: -442890818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_145
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 178
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af1a9295040654786afbd65be9dfb4
+      internalID: 905069825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_146
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 178
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d3bbf980a57f148a6a4759acd40105
+      internalID: -1897860465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_147
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 178
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff485e16e7df7d419b4ef7723a2888b
+      internalID: -359128056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_148
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 178
+        width: 51
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c4318d919e56e459aca2a25ceeaca5
+      internalID: -98280674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_149
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 179
+        width: 52
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5941f6ccc020b34cb3aa88911ccb742
+      internalID: 1962224183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_150
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 179
+        width: 51
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2b7662fe808944c9e79fa98d2e6fa5
+      internalID: 651323809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_151
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 179
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6e1ec4ea78e4547805192bee5da5cf
+      internalID: -814847269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_152
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 177
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a7d6e6f7be3e4f9b39935f720418d
+      internalID: 560831059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_153
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 114
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64d6de9cf026642ad6f457d270ff7d
+      internalID: 793956794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_154
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc1629d5c8988249a9931bd8b05cca8
+      internalID: 1996263337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_155
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c47a3e99758f844b25ee439b9ab7bc
+      internalID: 909001759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_156
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 116
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5ec12a6904fd144bd4b28069d23263
+      internalID: 931547915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_157
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 116
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557bd2e32105f084b86997b2c94b5ec6
+      internalID: -912551072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_158
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 115
+        width: 48
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f923bd64b0a4147907a619a1d73de8
+      internalID: 218979164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_159
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 115
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3849f284504f42a2b87a6227334bf
+      internalID: 995801058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_160
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 115
+        width: 49
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c1caf28898784ebb4c791bd6bc520
+      internalID: -1637228142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_161
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 115
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef078cd65fcb042ba33d98c4faef76
+      internalID: 683504821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_162
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 114
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53317cf9826e3364a86034124ba832f3
+      internalID: 1314207543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 113
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31330f7f686b34ab339dfec218f454
+      internalID: 394439400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_164
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 113
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1eda28c1766f04c873edc600ef3e89
+      internalID: -959080852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462f64710c9fd949b085beade4c7e66
+      internalID: -2046744116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_170
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41fdf187da1b4408420349e6b4aad7
+      internalID: -951692274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_171
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 55
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327fad813903ea4586753a9827d3ad9
+      internalID: 1632358980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_172
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a166ee0c0092f64ab9ebbc71b60a12d
+      internalID: 1210396442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_173
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 48
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7898fd4bd1e2745bc36a5171e6b1d8
+      internalID: 567103401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_174
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 48
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396bc3f382fc6549abad22e5e09f1d5
+      internalID: -610272444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_175
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 52
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d188cbc693653f409db3216fbc1089d
+      internalID: 1754681476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_176
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 53
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ad9377fcbaf954fbdbb5252a05e677
+      internalID: 1052528972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_177
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 54
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac06afc807411f34ebabe407ef19ebb5
+      internalID: -1246151334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_178
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 54
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353fc0a909c94c429e0b7f0c19e19e0
+      internalID: 164344188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_179
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 54
+        width: 34
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e273dd606a33c4c992a820f6021cf1
+      internalID: 776724255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_180
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 54
+        width: 34
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa1cf03b29fbb14e83d8a242f6ca53a
+      internalID: 469399541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_181
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 53
+        width: 35
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063ae68c2c511584289a2a46aab20aa1
+      internalID: 606623346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_183
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055112414fc3a4499e39843c397207f
+      internalID: 406273912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_184
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 15
+        width: 42
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203c53ecd729c347bcda136e4b0457c
+      internalID: -501443680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 43
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423991c66cecb24fbca1f6543137e16
+      internalID: -1536642431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_186
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 16
+        width: 43
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2f83827828b634694434f0064822d5
+      internalID: -731450918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_187
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 16
+        width: 40
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff430551df82c4144813b5bb170e64f9
+      internalID: -1920728453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_188
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 15
+        width: 37
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663770d70cad05045ad94bb819d2c865
+      internalID: -342890746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_189
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e31b8cae509b44db5f1fb166e51d42
+      internalID: -2007046781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_190
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 15
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c93f1afa8174846b777f758e29e904
+      internalID: -411882958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_191
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 16
+        width: 40
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430daa55a37af034094368f8e17f1521
+      internalID: 400640896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_192
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 16
+        width: 40
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230a4e23c860f04da34ab7d1c217250
+      internalID: -1006259379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_193
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 14
+        width: 43
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d4e355ce4db2d49aa7ed34776113cd
+      internalID: -474456114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_194
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 14
+        width: 44
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d689c5865f407b49a4eeaa8c9d3838e
+      internalID: 2069120829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_195
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 15
+        width: 43
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff356d1666aa34dbc4ac102a008db6
+      internalID: 1369954588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_196
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 14
+        width: 42
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57460cd250eea469e5cacf5576dc58
+      internalID: 1706505203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_197
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 14
+        width: 39
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d29fe72199d164e94ec2845710b590
+      internalID: -347692266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_198
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 10
+        width: 45
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2f6efcb67e0143b3cb96f525da312
+      internalID: 1583513871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_199
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 10
+        width: 39
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55728baa78e10da45bdef2231addacaf
+      internalID: -895022642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kremlings_200
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 9
+        width: 43
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c7c2d13579814582bfbe6095171ac
+      internalID: -1520453836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kremlings_0: 1804883095
+      Kremlings_1: 387011731
+      Kremlings_10: 824824322
+      Kremlings_100: 569231360
+      Kremlings_101: 1631592857
+      Kremlings_102: -1917733042
+      Kremlings_103: 1658824166
+      Kremlings_104: -40498336
+      Kremlings_105: 1616760237
+      Kremlings_106: -1287864986
+      Kremlings_107: 717632019
+      Kremlings_108: 782007335
+      Kremlings_109: 2629845
+      Kremlings_11: -1777794537
+      Kremlings_110: -607286521
+      Kremlings_111: -1636426750
+      Kremlings_112: 1256616358
+      Kremlings_113: 1816590533
+      Kremlings_114: -1106432555
+      Kremlings_115: -1085905105
+      Kremlings_116: 358462210
+      Kremlings_117: 721127659
+      Kremlings_118: 500277902
+      Kremlings_119: -737145691
+      Kremlings_12: -1750714662
+      Kremlings_120: -1555502743
+      Kremlings_121: -122740946
+      Kremlings_122: -1137730372
+      Kremlings_123: 11200707
+      Kremlings_124: 1668530912
+      Kremlings_125: -992220475
+      Kremlings_126: -1570534793
+      Kremlings_127: 544780332
+      Kremlings_128: 1666706269
+      Kremlings_129: -374881136
+      Kremlings_13: -363755209
+      Kremlings_130: 881331310
+      Kremlings_131: 1218217869
+      Kremlings_132: -899859641
+      Kremlings_133: -280747802
+      Kremlings_134: 1000369113
+      Kremlings_135: 1946662367
+      Kremlings_136: -1758990006
+      Kremlings_137: 696264711
+      Kremlings_138: 1632920015
+      Kremlings_139: -354209498
+      Kremlings_14: -498004605
+      Kremlings_140: -1775944882
+      Kremlings_141: 1075732797
+      Kremlings_142: -1774309856
+      Kremlings_143: -1504234074
+      Kremlings_144: -442890818
+      Kremlings_145: 905069825
+      Kremlings_146: -1897860465
+      Kremlings_147: -359128056
+      Kremlings_148: -98280674
+      Kremlings_149: 1962224183
+      Kremlings_15: -1466696825
+      Kremlings_150: 651323809
+      Kremlings_151: -814847269
+      Kremlings_152: 560831059
+      Kremlings_153: 793956794
+      Kremlings_154: 1996263337
+      Kremlings_155: 909001759
+      Kremlings_156: 931547915
+      Kremlings_157: -912551072
+      Kremlings_158: 218979164
+      Kremlings_159: 995801058
+      Kremlings_16: -1914852554
+      Kremlings_160: -1637228142
+      Kremlings_161: 683504821
+      Kremlings_162: 1314207543
+      Kremlings_163: 394439400
+      Kremlings_164: -959080852
+      Kremlings_165: -2063159070
+      Kremlings_166: 586272046
+      Kremlings_167: 1218637651
+      Kremlings_168: -158025588
+      Kremlings_169: -2046744116
+      Kremlings_17: -1823422042
+      Kremlings_170: -951692274
+      Kremlings_171: 1632358980
+      Kremlings_172: 1210396442
+      Kremlings_173: 567103401
+      Kremlings_174: -610272444
+      Kremlings_175: 1754681476
+      Kremlings_176: 1052528972
+      Kremlings_177: -1246151334
+      Kremlings_178: 164344188
+      Kremlings_179: 776724255
+      Kremlings_18: -861350497
+      Kremlings_180: 469399541
+      Kremlings_181: 606623346
+      Kremlings_182: -2029153198
+      Kremlings_183: 406273912
+      Kremlings_184: -501443680
+      Kremlings_185: -1536642431
+      Kremlings_186: -731450918
+      Kremlings_187: -1920728453
+      Kremlings_188: -342890746
+      Kremlings_189: -2007046781
+      Kremlings_19: 643022883
+      Kremlings_190: -411882958
+      Kremlings_191: 400640896
+      Kremlings_192: -1006259379
+      Kremlings_193: -474456114
+      Kremlings_194: 2069120829
+      Kremlings_195: 1369954588
+      Kremlings_196: 1706505203
+      Kremlings_197: -347692266
+      Kremlings_198: 1583513871
+      Kremlings_199: -895022642
+      Kremlings_2: 964823807
+      Kremlings_20: 402780194
+      Kremlings_200: -1520453836
+      Kremlings_21: 1252212644
+      Kremlings_22: -1727063998
+      Kremlings_23: 760316221
+      Kremlings_24: 516787016
+      Kremlings_25: -1950630937
+      Kremlings_26: 1826866036
+      Kremlings_27: 557054223
+      Kremlings_28: -829875697
+      Kremlings_29: -284453317
+      Kremlings_3: -1641590679
+      Kremlings_30: -796173279
+      Kremlings_31: -847882114
+      Kremlings_32: -1604353854
+      Kremlings_33: 1660889010
+      Kremlings_34: -2029227969
+      Kremlings_35: -1371812183
+      Kremlings_36: -2051232244
+      Kremlings_37: -209017732
+      Kremlings_38: 778672586
+      Kremlings_39: -591238309
+      Kremlings_4: 39194623
+      Kremlings_40: 272944004
+      Kremlings_41: 117090187
+      Kremlings_42: 809682409
+      Kremlings_43: -2100793540
+      Kremlings_44: 579437724
+      Kremlings_45: 1764905241
+      Kremlings_46: 1271803888
+      Kremlings_47: 944636591
+      Kremlings_48: -1720492015
+      Kremlings_49: -502384857
+      Kremlings_5: 584480593
+      Kremlings_50: -1981953507
+      Kremlings_51: 74970657
+      Kremlings_52: -768109686
+      Kremlings_53: -1185950410
+      Kremlings_54: -563428519
+      Kremlings_55: 317032425
+      Kremlings_56: -2023578938
+      Kremlings_57: 1759500153
+      Kremlings_58: 2120595777
+      Kremlings_59: 1097917870
+      Kremlings_6: 875705357
+      Kremlings_60: -808292365
+      Kremlings_61: -694668758
+      Kremlings_62: 1224403871
+      Kremlings_63: 698386759
+      Kremlings_64: -1073612607
+      Kremlings_65: 1705559290
+      Kremlings_66: -1478050914
+      Kremlings_67: -470500413
+      Kremlings_68: -1570194458
+      Kremlings_69: 1975139147
+      Kremlings_7: 357237596
+      Kremlings_70: 1288874149
+      Kremlings_71: -1030024471
+      Kremlings_72: -763039223
+      Kremlings_73: -1720183799
+      Kremlings_74: -1084297960
+      Kremlings_75: -2045063302
+      Kremlings_76: -2010670738
+      Kremlings_77: 1988936119
+      Kremlings_78: 740312610
+      Kremlings_79: -1328192733
+      Kremlings_8: -2058235634
+      Kremlings_80: -1262808252
+      Kremlings_81: -1204335924
+      Kremlings_82: 132190359
+      Kremlings_83: 1502078600
+      Kremlings_84: -1117862425
+      Kremlings_85: 1904923206
+      Kremlings_86: -499701117
+      Kremlings_87: 1420876709
+      Kremlings_88: 191823557
+      Kremlings_89: 1040302372
+      Kremlings_9: 1107186591
+      Kremlings_90: 862569055
+      Kremlings_91: 1899087026
+      Kremlings_92: 883886777
+      Kremlings_93: 333261560
+      Kremlings_94: 1585879005
+      Kremlings_95: 198731736
+      Kremlings_96: 2043098598
+      Kremlings_97: 564337908
+      Kremlings_98: 222759256
+      Kremlings_99: 637199320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
